@@ -15,8 +15,8 @@
     LinkedIn: Jordan Moureau
     
     🛠️ What I'm Working On:
-    A Shopify e-commerce build for a local business, New Love Coffee ☕.
-    Fun projects like PokéMath (a Pokémon-inspired math learning app).
+    A Shopify e-commerce build for a local coffee shop.
+    A gameified banking app.
 
 <!---
 JordanMoureau/JordanMoureau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
