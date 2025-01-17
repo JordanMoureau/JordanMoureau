@@ -4,7 +4,7 @@
     
     👀 About Me:
     🚀 I'm passionate about front-end development and creating intuitive, engaging user experiences.
-    🌱 Currently learning Liquid, Swift, and Docker to expand my skillset.
+    🌱 Currently learning Liquid, Swift, and Ruby to expand my skill-set.
     💡 I enjoy solving complex challenges and am eager to collaborate on backend projects to grow my expertise.
     😄 Pronouns: she/her
     ⚡ Fun fact: I can jump a horse over 3’6” and teach it to dance—but coding keeps me grounded
