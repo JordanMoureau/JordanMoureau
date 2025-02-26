@@ -5,7 +5,7 @@
     
     I'm a freelance web designer and developer. 
     
-    I build front-ends, but my personal projects range from CMS systems to Liquid templates to iOS apps. 
+    I build mainly front-ends, but my projects range from CMS systems to Liquid templates to iOS apps. 
 
     Learning new technology is my happy place.
   
