@@ -1,24 +1,19 @@
     
     Hi there, I'm Jordan Moureau! 👋
-    🌟 Front-End Enthusiast | Web Developer | Problem-Solver
     
-    👀 About Me:
-    🚀 I'm passionate about front-end development and creating intuitive, engaging user experiences.
-    🌱 Currently learning Liquid, Swift, and Ruby to expand my skill-set.
-    💡 I enjoy solving complex challenges and am eager to collaborate on backend projects to grow my expertise.
-    😄 Pronouns: she/her
-    ⚡ Fun fact: I can jump a horse over 3’6” and teach it to dance—but coding keeps me grounded
+    A Full-Stack Developer out of Washington State who happens to be passionate about nerding. 
     
-    📫 Let's Connect:
+    I'm a freelance web designer and developer. 
+    
+    I build front-ends, but my personal projects range from CMS systems to Liquid templates to iOS apps. 
+
+    Learning new technology is my happy place.
+  
     Email: jordan@freelancejordan.com
-    Portfolio: freelancejordan.com
+    Portfolio: jordanmoureau.com
     LinkedIn: Jordan Moureau
     
-    🛠️ What I'm Working On:
-    A Shopify e-commerce build for a local coffee shop.
-    A gameified banking app.
+    What I'm Working On:
+    A niche dating app
+    Godzilla Learns to Write Python
 
-<!---
-JordanMoureau/JordanMoureau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
