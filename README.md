@@ -1,7 +1,7 @@
     
     Hi there, I'm Jordan Moureau! 👋
     
-    A Full-Stack Developer out of Washington State who happens to be passionate about nerding. 
+    A Full-Stack Developer out of Washington State who happens to be passionate about all kinds of nerding. 
     
     I'm a freelance web designer and developer. 
     
